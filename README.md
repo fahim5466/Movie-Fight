@@ -1,5 +1,8 @@
 # Movie Fight
 Movie Fight is a simple Javascript application where a user can search and select any two movies to compare their stats.
+
+![Movie-Fight](https://github.com/fahim5466/Movie-Fight/assets/41055243/45c9272f-4c69-4d43-9454-310af222708d)
+
 This project was done as part of this Udemy course - [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial). Although it
 should be noted that this is not a direct duplication of the code. I have added some personal changes in the overall code structure and the actual code. I think these changes
 improve upon the original.
